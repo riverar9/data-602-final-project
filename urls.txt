@@ -6,6 +6,3 @@ https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-ex
 
 2018-19 National Survey on Drug Use and Health (NSDUH) shows the prevalence of pain reliever misuse in each state:
 https://datatools.samhsa.gov/nsduh/2019/nsduh-2018-2019-rd02yr/crosstab?row=PNRNMYR&column=STUSAB&weight=DASWT_1
-
-Naomi pulled CSV of NSDUH data on rates of opioid misuse by state (not original source): 
-https://raw.githubusercontent.com/naomibuell/DATA607/refs/heads/main/STUSAB%20x%20PNRNMYR.csv
