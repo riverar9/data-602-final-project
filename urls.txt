@@ -1,0 +1,11 @@
+Status of State Medicaid Expansion Decisions: Interactive Map:
+https://www.kff.org/affordable-care-act/issue-brief/status-of-state-medicaid-expansion-decisions-interactive-map/
+
+Status of State Medicaid Expansion Decisions: Table format:
+https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
+
+2018-19 National Survey on Drug Use and Health (NSDUH) shows the prevalence of pain reliever misuse in each state:
+https://datatools.samhsa.gov/nsduh/2019/nsduh-2018-2019-rd02yr/crosstab?row=PNRNMYR&column=STUSAB&weight=DASWT_1
+
+Naomi pulled CSV of NSDUH data on rates of opioid misuse by state (not original source): 
+https://raw.githubusercontent.com/naomibuell/DATA607/refs/heads/main/STUSAB%20x%20PNRNMYR.csv
