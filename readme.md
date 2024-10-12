@@ -1,6 +1,6 @@
 # Final Project Repository
 
-This repository contains the code and revisions for the Final Project developed by **Naomi Buell**, **Alexander Simon**, and **Richie Rivera**. Our project aims to [briefly describe the project objective, e.g., "build a web application that streamlines task management for remote teams"].
+This repository contains the code and revisions for the Final Project developed by **Naomi Buell**, **Alexander Simon**, and **Richie Rivera**. Our project aims to opioid misuse [briefly describe the project objective, e.g., "build a web application that streamlines task management for remote teams"].
 
 ## Table of Contents
 
