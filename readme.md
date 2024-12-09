@@ -1,6 +1,6 @@
 # Final Project Repository
 
-This repository contains the code and revisions for the Final Project developed by **Naomi Buell**, **Alexander Simon**, and **Richie Rivera**. Link to our project presentation: https://docs.google.com/presentation/d/1rlTIdZuWD051CAaSmXPsX9qOsIEkOI7AMN-FFWNHilY/edit?usp=sharing.
+This repository contains the code for the Final Project developed by **Naomi Buell**, **Alexander Simon**, and **Richie Rivera**. Link to our project presentation: https://docs.google.com/presentation/d/1rlTIdZuWD051CAaSmXPsX9qOsIEkOI7AMN-FFWNHilY/edit?usp=sharing.
 
 ## Abstract
 
